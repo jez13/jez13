@@ -1,8 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on JS infinite(a [replit](https://repl.it/) project)
 - 🌱 I’m currently learning python, javascript, c, c#, c++
-<!-- - 👯 I’m looking to collaborate on
-- 🤔 I’m looking for help with ... -->- 💬 Ask me about roblox lua code
+- 💬 Ask me about roblox lua code
 - 📫 How to reach me: dm me on discord: Jez#9741
 - 😄 Pronouns: they/them/he/him
 - ⚡ Fun fact: i started programming on a mobile app
