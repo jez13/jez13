@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on JS infinite(a [replit](https://repl.it/) project)
+- 🔭 I’m currently working on JSinfinite
 - 🌱 I’m currently learning python, javascript, c, c#, c++
 - 💬 Ask me about roblox lua code
 - 📫 How to reach me: dm me on discord: Jez#9741
