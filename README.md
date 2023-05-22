@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on JSinfinite
-- 🌱 I’m currently learning python, javascript, c, c#, c++
-- 💬 Ask me about roblox lua code
-- 📫 How to reach me: dm me on discord: Jez#9741
+- 🌱 I’m currently learning Python, JavaScript, C, C#, C++.
+- 💬 Ask me about Roblox lua code.
+- 📫 How to reach me: DM me on Discord: Jez#9741
 - 😄 Pronouns: they/them/he/him
 - ⚡ Fun fact: i started programming on a mobile app
 
